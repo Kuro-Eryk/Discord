@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .body-background {
-  width: 100%;
+  width: 1440px;
   height: 1600px;
   background-color: #ffffff;
 }
@@ -154,7 +154,6 @@
   padding-top: 120px;
 }
 .text-box1 {
-  width: 980px;
   height: 127px;
   display: grid;
   gap: 24.59px;
