@@ -292,7 +292,7 @@ footer {
   height: 38px;
   display: flex;
   justify-content: space-between;
-  padding: 0px 130px 64px 130px;
+  margin: 0px 130px 64px 130px;
 }
 .btn-footer-box {
   width: 76.1875px;
